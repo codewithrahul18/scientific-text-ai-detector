@@ -1,1 +1,1 @@
-# scientific-text-ai-detector1
+# scientific-text-ai-detector
